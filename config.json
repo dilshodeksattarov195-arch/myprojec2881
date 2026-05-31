@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachefrocess",
+        "uuid": 16009717,
+        "checksum": "49q3vh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
